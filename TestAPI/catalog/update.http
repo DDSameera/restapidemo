@@ -1,0 +1,12 @@
+PUT http://127.0.0.1:8080/catalog/update/23
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "name": "Updated Catalogue 02"
+}
+
+
+
+

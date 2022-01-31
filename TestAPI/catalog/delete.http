@@ -1,0 +1,8 @@
+DELETE http://127.0.0.1:8080/catalog/delete/21
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+
+
+

@@ -1,0 +1,12 @@
+POST http://127.0.0.1:8080/user/login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email":"abc@yahoo.com",
+  "password":"Majority300!"
+}
+
+
+
+
